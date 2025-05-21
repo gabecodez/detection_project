@@ -2,6 +2,7 @@
 // Author: Gabriel Sullivan
 // Purpose: This project handles a collision box which activates a camera effect when
 //          a tracked object enters the collision box
+//          This was created for CPSC220 with Dr. Thiep Pham at Kutztown University
 
 import processing.video.*;
 import processing.sound.*;
