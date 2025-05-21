@@ -1,11 +1,5 @@
-// Filename: project4.pde
+// Filename: detection_project.pde
 // Author: Gabriel Sullivan
-// Major: Computer Science
-// Creation date: 4/22/25
-// Due date: 4/4/25
-// Course: CPSC220
-// Professor: Dr. Pham
-// Assignment: Project #4
 // Purpose: This project handles a collision box which activates a camera effect when
 //          a tracked object enters the collision box
 
